@@ -1,0 +1,15 @@
+{
+  "author": {
+    "email": "pv.srivathsa@gmail.com",
+    "name": "PV Srivathsa"
+  },
+  "dependencies": {
+    "react": "0.13.3",
+    "classnames": "2.1.5"
+  },
+  "description": "React component that displays a spinner via spin.js until your component is loaded",
+  "license": "MIT",
+  "main": "lib/react-loader.js",
+  "name": "react-loader-img",
+  "version": "0.0.1"
+}
